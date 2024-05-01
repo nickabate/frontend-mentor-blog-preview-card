@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [View on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [View on Vercel](https://your-live-site-url.com)
+- Solution URL: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-nextjstailwind-Qmtp8QCsM-)
+- Live Site URL: [View on Vercel](https://frontend-mentor-blog-preview-card-nick-abate.vercel.app/)
 
 ## My process
 
