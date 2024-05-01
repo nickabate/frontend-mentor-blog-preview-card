@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
 	return (
 		<main className="flex justify-center items-center min-h-screen bg-yellow-10 ">
-			<section className="flex flex-col gap-5 bg-white p-6 rounded-2xl border-black border shadow-offset max-w-[330px]">
+			<section className="flex flex-col gap-5 bg-white p-6 rounded-2xl border-black border shadow-offset max-w-[330px] transition-shadow duration-300 hover:shadow-[12px_13px_0px_#000]">
 				<div>
 					<Image
 						src="/illustration-article.svg"
