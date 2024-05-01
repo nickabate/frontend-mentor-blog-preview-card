@@ -8,11 +8,18 @@ const config: Config = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+      colors: {
+        yellow: {
+          10: 'hsl(47, 88%, 63%)'
+        },
+        neutral: {
+          10: 'hsl(0, 0%, 50%)',
+          20: 'hsl(0, 0%, 7%)'
+        }
       },
+      boxShadow: {
+        offset: '8px 8px #000'
+      }
     },
   },
   plugins: [],
